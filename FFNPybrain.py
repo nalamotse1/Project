@@ -148,6 +148,8 @@ def main():
 		
 		pl.plot(trnerr, 'b', valerr, 'r')
 
+		print 'hello there'
+
 		k += 1
 		end += 1
 
